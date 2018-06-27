@@ -1,0 +1,30 @@
+body{
+    margin:0;
+}
+
+/*--------------------Header styles*/
+
+.main-header{
+    background-color: #5d6060;
+    width:100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-title{
+    font-style: oblique;
+    color: #f9f9f9;
+    text-align: center;
+    margin: 0;
+    font-size: 100px;
+    border: 1px white solid;
+    padding: 10px;
+}
+
+
+
+
+
+/*------------------Navbar*/
